@@ -1,0 +1,45 @@
+
+
+
+Requirements:
+
+
+1.Users:
+⦁	Two types of users: Normal users and bank users.
+⦁	Each user can have multiple accounts in multiple banks.
+⦁	Each user has roles and permissions determining what operations they can perform.
+
+2.Banks:
+⦁	Each bank can have multiple branches.
+⦁	Each branch can manage multiple accounts.	
+
+3.Accounts:
+⦁	Accounts can be of type :Saving, Current, or Term Deposit.
+⦁	Accounts may be operated by minors or through Power of Attorney.
+⦁	Accounts will have inheritance structure based on type (saving/current/term deposit)
+⦁	Accounts must support operations:
+		-Deposit money
+		-Withdraw money (limited)
+		-Close account(limited)
+		-Operate account(limited)
+		-Check balance (limited)
+
+4.Authentication and Roles:
+⦁	Implement login functionality to assign roles and permissions to each user.
+⦁	Each role defines the allowed operations for the user.
+
+
+5.API's:
+⦁	REST Endpoints:
+	- /banks
+	- /accounts
+	- /user
+	- /login
+⦁	user APIs have limited create, update, delete operations but unlimited read operations.
+⦁	Account API's implement inheritance for account types.
+
+
+6. Documentation and coding:
+⦁	Maintain documentation of entities, API endpoints, and code structure.
+⦁	Follow coding standards and oop principles.
+⦁	Final submission should include working API endpoints, migrations, and populated data
