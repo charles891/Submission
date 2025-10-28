@@ -1,0 +1,16 @@
+1. Each user have at least one unique email address for login.
+2. A user can belong to multiple banks through multiple accounts.
+3. Each bank can have one or more branches.
+4. Term Deposit accounts are treated as special account types with maturity and interest details.
+5. Currency type will be stored as a short code (eg. USD,INR, EUR).
+6.Balance field will store current balance as decimal.
+7. all seposits and withdrawals will be positive numeric values.
+8. Roles ans permissions are predefined and linked to users via a mapping table.
+9. Date and Time fields (CreatedAt, UpdatedAt) will use system timestamps.
+10. For simplicity, no transaction history table is included in Sprint #0.
+11. Applications will use SQL Server as the database.
+12. Data validation (for minors or POA) will be handled at the application layer.
+13. Each account must belong to one branch and one user.
+14. Passwords are stored in hashed form, not plain text.
+15. Deleting a user will cascade to deactivate or archive their accounts.
+
