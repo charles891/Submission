@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\bankcustomerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\bankcustomerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\bankcustomerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\bankcustomerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\serivces\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\serivces\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\rolepermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\rolepermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\branches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\branches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\model\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\model\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\migrations\\20251028171421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\migrations\\20251028171421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\data\\trainingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\data\\trainingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|c:\\users\\charles.j\\desktop\\spirit#1\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0A442E-388A-4301-9600-1B842EBBE428}|WebApplication1\\BankCustomerAPI.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Serivces\\JWTService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Serivces\\JWTService.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Serivces\\JWTService.cs",
+              "RelativeToolTip": "WebApplication1\\Serivces\\JWTService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:42:36.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:46:04.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:59:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T10:44:18.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "account.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\account.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\account.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\account.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\account.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:30:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:31:16.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\users.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\users.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\users.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:37:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "roles.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\roles.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\roles.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\roles.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:39:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rolePermissions.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\rolePermissions.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\rolePermissions.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\rolePermissions.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\rolePermissions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:29:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "permissions.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\permissions.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\permissions.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\permissions.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\permissions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:28:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "branches.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\branches.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\branches.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\branches.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\branches.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:30:24.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bank.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\bank.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\bank.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Model\\bank.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\bank.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:29:58.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251028171421_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Migrations\\20251028171421_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251028171421_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Migrations\\20251028171421_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251028171421_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:14:22.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrainingContext.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\data\\TrainingContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\data\\TrainingContext.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\data\\TrainingContext.cs",
+              "RelativeToolTip": "WebApplication1\\data\\TrainingContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:58:45.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:06:10.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankCustomerAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\BankCustomerAPI.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\BankCustomerAPI.csproj",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\BankCustomerAPI.csproj",
+              "RelativeToolTip": "WebApplication1\\BankCustomerAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T05:07:07.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T05:27:21.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankCustomerAPI",
+              "DocumentMoniker": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\BankCustomerAPI.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\BankCustomerAPI.csproj",
+              "ToolTip": "C:\\Users\\charles.j\\Desktop\\spirit#1\\WebApplication1\\WebApplication1\\BankCustomerAPI.csproj",
+              "RelativeToolTip": "WebApplication1\\BankCustomerAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T05:27:14.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
